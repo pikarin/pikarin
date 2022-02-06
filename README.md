@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Laravel**
 
-- 🌱 I’m currently learning **Tailwind CSS & Docker**
+- 🌱 I’m currently learning **Tailwind CSS & React**
 
 - 👯 I’m looking to collaborate on **Open Source** and/or **Web Apps** projects
 
